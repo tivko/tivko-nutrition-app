@@ -1,0 +1,135 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`InputBoxForm renders correctly with default props 1`] = `
+<View>
+  <View
+    style={
+      {
+        "paddingBottom": 5,
+        "paddingTop": 8,
+      }
+    }
+  >
+    <Text
+      style={
+        {
+          "color": "#808080",
+          "fontSize": 26.5,
+        }
+      }
+    >
+      Test Input
+    </Text>
+  </View>
+  <View
+    style={
+      [
+        {
+          "backgroundColor": "#ffff",
+          "borderRadius": 5,
+          "borderWidth": 1,
+          "flexDirection": "row",
+          "height": 80,
+          "padding": 10,
+          "width": 600,
+        },
+        {
+          "borderColor": "grey",
+        },
+      ]
+    }
+  >
+    <TextInput
+      keyboardType="default"
+      onBlur={[MockFunction]}
+      onChangeText={[Function]}
+      placeholder="Test Input"
+      secureTextEntry={false}
+      style={
+        {
+          "alignItems": "center",
+          "flex": 1,
+          "fontSize": 24,
+          "justifyContent": "center",
+        }
+      }
+      value=""
+    />
+  </View>
+  <View
+    style={
+      {
+        "alignItems": "flex-end",
+        "width": 600,
+      }
+    }
+  />
+</View>
+`;
+
+exports[`InputBoxForm Рендериться коректно зі стандартними параметрами 1`] = `
+<View>
+  <View
+    style={
+      {
+        "paddingBottom": 5,
+        "paddingTop": 8,
+      }
+    }
+  >
+    <Text
+      style={
+        {
+          "color": "#808080",
+          "fontSize": 26.5,
+        }
+      }
+    >
+      Test Input
+    </Text>
+  </View>
+  <View
+    style={
+      [
+        {
+          "backgroundColor": "#ffff",
+          "borderRadius": 5,
+          "borderWidth": 1,
+          "flexDirection": "row",
+          "height": 80,
+          "padding": 10,
+          "width": 600,
+        },
+        {
+          "borderColor": "grey",
+        },
+      ]
+    }
+  >
+    <TextInput
+      keyboardType="default"
+      onBlur={[MockFunction]}
+      onChangeText={[Function]}
+      placeholder="Test Input"
+      secureTextEntry={false}
+      style={
+        {
+          "alignItems": "center",
+          "flex": 1,
+          "fontSize": 24,
+          "justifyContent": "center",
+        }
+      }
+      value=""
+    />
+  </View>
+  <View
+    style={
+      {
+        "alignItems": "flex-end",
+        "width": 600,
+      }
+    }
+  />
+</View>
+`;

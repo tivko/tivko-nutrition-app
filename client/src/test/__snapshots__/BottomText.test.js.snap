@@ -1,0 +1,255 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`BottomText renders correctly with firstText prop 1`] = `
+<View
+  accessibilityState={
+    {
+      "busy": undefined,
+      "checked": undefined,
+      "disabled": undefined,
+      "expanded": undefined,
+      "selected": undefined,
+    }
+  }
+  accessibilityValue={
+    {
+      "max": undefined,
+      "min": undefined,
+      "now": undefined,
+      "text": undefined,
+    }
+  }
+  accessible={true}
+  collapsable={false}
+  focusable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    {
+      "opacity": 1,
+    }
+  }
+>
+  <Text
+    style={
+      [
+        {
+          "fontSize": 24,
+        },
+        {
+          "color": "red",
+        },
+      ]
+    }
+  >
+    First Text
+  </Text>
+</View>
+`;
+
+exports[`BottomText renders correctly with secondText and thirdText props 1`] = `
+<View
+  style={
+    [
+      {
+        "fontSize": 24,
+      },
+      {
+        "flexDirection": "row",
+        "gap": 3,
+      },
+    ]
+  }
+>
+  <Text
+    style={
+      {
+        "fontSize": 24,
+      }
+    }
+  >
+    Second Text
+  </Text>
+  <View
+    accessibilityState={
+      {
+        "busy": undefined,
+        "checked": undefined,
+        "disabled": undefined,
+        "expanded": undefined,
+        "selected": undefined,
+      }
+    }
+    accessibilityValue={
+      {
+        "max": undefined,
+        "min": undefined,
+        "now": undefined,
+        "text": undefined,
+      }
+    }
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      {
+        "opacity": 1,
+      }
+    }
+  >
+    <Text
+      style={
+        [
+          {
+            "fontSize": 24,
+          },
+          {
+            "textDecorationLine": "underline",
+          },
+        ]
+      }
+    >
+      Third Text
+    </Text>
+  </View>
+</View>
+`;
+
+exports[`BottomText Рендериться коректно з параметрами secondText та thirdText 1`] = `
+<View
+  style={
+    [
+      {
+        "fontSize": 24,
+      },
+      {
+        "flexDirection": "row",
+        "gap": 3,
+      },
+    ]
+  }
+>
+  <Text
+    style={
+      {
+        "fontSize": 24,
+      }
+    }
+  >
+    Second Text
+  </Text>
+  <View
+    accessibilityState={
+      {
+        "busy": undefined,
+        "checked": undefined,
+        "disabled": undefined,
+        "expanded": undefined,
+        "selected": undefined,
+      }
+    }
+    accessibilityValue={
+      {
+        "max": undefined,
+        "min": undefined,
+        "now": undefined,
+        "text": undefined,
+      }
+    }
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      {
+        "opacity": 1,
+      }
+    }
+  >
+    <Text
+      style={
+        [
+          {
+            "fontSize": 24,
+          },
+          {
+            "textDecorationLine": "underline",
+          },
+        ]
+      }
+    >
+      Third Text
+    </Text>
+  </View>
+</View>
+`;
+
+exports[`BottomText Рендериться коректно з параметром firstText 1`] = `
+<View
+  accessibilityState={
+    {
+      "busy": undefined,
+      "checked": undefined,
+      "disabled": undefined,
+      "expanded": undefined,
+      "selected": undefined,
+    }
+  }
+  accessibilityValue={
+    {
+      "max": undefined,
+      "min": undefined,
+      "now": undefined,
+      "text": undefined,
+    }
+  }
+  accessible={true}
+  collapsable={false}
+  focusable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    {
+      "opacity": 1,
+    }
+  }
+>
+  <Text
+    style={
+      [
+        {
+          "fontSize": 24,
+        },
+        {
+          "color": "red",
+        },
+      ]
+    }
+  >
+    First Text
+  </Text>
+</View>
+`;

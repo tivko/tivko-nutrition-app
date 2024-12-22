@@ -1,0 +1,74 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<BmiInfo /> renders correctly with given props 1`] = `
+<View
+  style={
+    {
+      "alignItems": "center",
+    }
+  }
+>
+  <Text
+    style={
+      {
+        "color": "#808080",
+        "fontSize": 24,
+      }
+    }
+  >
+    ІМТ: 
+    22
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#808080",
+        "fontSize": 24,
+      }
+    }
+  >
+    Рекомендована вага:
+     
+    50
+     -
+     
+    70
+     кг
+  </Text>
+</View>
+`;
+
+exports[`<BmiInfo /> renders correctly without props 1`] = `
+<View
+  style={
+    {
+      "alignItems": "center",
+    }
+  }
+>
+  <Text
+    style={
+      {
+        "color": "#808080",
+        "fontSize": 24,
+      }
+    }
+  >
+    ІМТ: 
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#808080",
+        "fontSize": 24,
+      }
+    }
+  >
+    Рекомендована вага:
+     
+     -
+     
+     кг
+  </Text>
+</View>
+`;
